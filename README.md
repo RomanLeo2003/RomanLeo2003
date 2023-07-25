@@ -1,4 +1,4 @@
-### Hi there, my name is Roma, I'm 20 years old. 👋
+### Hi there, my name is Roma, I'm 20 y.o. 👋
 -  :books: I’m computer science student at KNRTU-KAI.
 - 🔭 I’m currently interested in ML/DL, especially in computer vision, chemoinformatics and reinforcement learning! I really want to find an application of deep learning in the natural sciences!
 - :sparkles: I’m in love with mathematics and data analysis!
