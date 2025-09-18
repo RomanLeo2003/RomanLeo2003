@@ -37,4 +37,4 @@
 - 💬 [Telegram](https://t.me/RomanLeo2003)  
 - 📧 [Email](mailto:roman.leontev.2003@gmail.com)  
 - 🌐 [VK](https://vk.com/id587219228)   
-- 📄 [CV](https://drive.google.com/drive/folders/1XRbAsNzyhp9mRPAPJYhF35x9_BxyeYJK)
+- 📄 [CV](https://drive.google.com/drive/folders/1n2HoRlO8NlasV5LUphppZQVoJwDoyGoY?usp=drive_link)
