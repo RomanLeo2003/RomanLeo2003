@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Roma
 
-🎓 **AI student** at [ITMO University](https://ai.itmo.ru/) | 22 y.o.  
+🎓 **AI student** at [ITMO University](https://ai.itmo.ru/) | 23 y.o.  
 💡 Passionate about **Machine Learning / Deep Learning**, especially in:  
 - 🎤 **Speech & Signal Processing** (ASR, TTS)  
 - ⚗️ **Chemoinformatics**  
